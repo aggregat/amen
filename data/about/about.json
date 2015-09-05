@@ -1,0 +1,38 @@
+{
+    "about": [
+        { "title": "Laurentius Kirche Kaltenwestheim",
+          "description": "Teile der Kirche stammen aus dem 15.Jahrhundert. Ursprünglich gehörte die Kirche zu einer Wehranlage in einem von Mauern umgebenen Dorf. 1606 wurden die Kirchenmauern in ihrer heutigen Gestalt errichtet. Damals hatte die Kirche noch einen Turm. Am 18. März 1796 zerstörte ein Feuer den ganzen Ort. In die alten Mauern hinein wurde die Kirche neu erbaut und 1799 eingeweiht. Die Orgel stammt aus dem Jahr 1802/03 und ist heute zu weiten Teilen restauriert. Die Ausmalung der Kirche ist aus dem Jahr 1823. 1978 wurde der Innenraum renoviert, 1998/99 die Außenfassade. 2010/11 konnte der Dachstuhl saniert und das Dach neu gedeckt werden.",
+          "thumbnail": "img/kaltenwestheim_1_thumb.jpg",
+          "image": "img/kaltenwestheim_1.jpg"
+        },
+        { "title": "Die Gemeinde Kaltenwestheim",
+          "description": "An jedem Sonn- und Feiertag  finden in Kaltenwestheim Gottesdienste statt. Gott wendet sich uns in seiner Liebe zu - das feiern wir miteinander. Kinder-, Jugend- und Erwachsenengruppen unserer Gemeinde treffen sich regelmäßig. Das Zentrum unserer Gemeinde ist aber der Gottesdienst am Sonntag. Im Laufe des Jahres gibt es viele Feste, die wir miteinander feiern. Zum Bibelsonntag, zu Band- und Segnungsgottesdiensten, Adventseröffnung, Schuljahresabschlussgottesdienst und zum Ostermusical am Ostermontag kommen die Gemeinden von Mittelsdorf und Reichenhausen mit nach Kaltenwestheim. Wir freuen uns über Besucher.",
+          "thumbnail": "img/kaltenwestheim_2_thumb.jpg",
+          "image": "img/kaltenwestheim_2.jpg"
+        },
+
+
+        { "title": "Kirche Mittelsdorf",
+          "description": "Von der Kirche in Mittelsdorf ist uns leider, trotz intensiver Recherchen, kein Name bekannt. Das Kirchenschiff stammt aus dem Jahr 1686. Der Unterbau des Turmes und der Taufstein sind älter und stammen von der Vorgängerkirche. Mittelsdorf hatte früher eine Kirchenburganlage. Davon ist nur noch ein Tor zu sehen. Die Turmspitze hat ihr heutiges Aussehen im Jahr 1872 erhalten. 2004 wurde die Kirche außen restauriert. In den Jahren 2012/13 wurden weitreichende Arbeiten an der Orgel von 1822 durchgeführt.",
+          "thumbnail": "img/mittelsdorf_1_thumb.jpg",
+          "image": "img/mittelsdorf_1.jpg"
+        },
+        { "title": "Die Gemeinde Mittelsdorf",
+          "description": "In der Kirche  von Mittelsdorf wird fast an jedem Sonn- und Feiertag  Gottesdienst gefeiert. 2015 feiert der Frauenchor von Mittelsdorf sein zehnjähriges Bestehen. Kinder-, Jugend- und Erwachsenengruppen finden im 1 km entfernten Kaltenwestheim statt. Die Gemeindekirchenräte planen die Innenrenovierung ihrer Kirche.",
+          "thumbnail": "img/mittelsdorf_2_thumb.jpg",
+          "image": "img/mittelsdorf_2.jpg"
+        },
+
+
+        { "title": "Michaelis-Kirche Reichenhausen",
+          "description": "Die Michaelis-Kirche wurde im Jahr 1737 erbaut. Im Frühjahr 1737 wurde die zu klein gewordene Vorgängerkirche abgerissen, im Herbst des gleichen Jahres wurde in der neuen Kirche Kirmes gefeiert. Die kleine Döhring-Orgel wurde generalüberholt. In den Jahren 2009 bis 2015 wurde die Kirche innen schrittweise renoviert und erstrahlt nun in frischen Farben.",
+          "thumbnail": "img/reichenhausen_1_thumb.jpg",
+          "image": "img/reichenhausen_1.jpg"
+        },
+        { "title": "Die Gemeinde Reichenhausen",
+          "description": "In der Michaelis-Kirche wird fast an jedem Sonn- und Feiertag Gottesdienst gefeiert. Im neu gestalteten Gemeinderaum der Kirche treffen sich Kirchenchor, Gospelchor \"Rückenwind\" und die Kinder-Kirche. Andere Veranstaltungen werden im Ort des Pfarramtes, Kaltenwestheim, besucht.",
+          "thumbnail": "img/reichenhausen_2_thumb.jpg",
+          "image": "img/reichenhausen_2.jpg"
+        }
+    ]
+}

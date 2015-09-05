@@ -1,0 +1,33 @@
+{
+    ".logo": {
+        "tint": false,
+        "images": [
+            "/img/logo_1.png",
+            "/img/logo_2.png",
+            "/img/logo_3.png"
+        ]
+    },
+    ".intro-section": {
+        "tint": true,
+        "images": [
+            "/img/trees.jpg"
+        ]
+    },
+    ".gemeindebrief-section":  {
+        "tint": true,
+        "images": [
+            "/img/book.jpg",
+            "/img/letter.jpg",
+            "/img/plate.jpg"
+        ]
+    },
+    ".events-section":  {
+        "tint": true,
+        "images": [
+            "/img/stones.jpg",
+            "/img/door.jpg",
+            "/img/blossom.jpg",
+            "/img/hands.jpg"
+        ]
+    }
+}

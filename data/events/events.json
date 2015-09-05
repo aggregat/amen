@@ -1,0 +1,22 @@
+{
+    "events": [
+        {
+            "date": "",
+            "image": "/data/events/christenlehre_thumb.jpg",
+            "title": "Christenlehre, Konfirmanden und Junge Gemeinde",
+            "description": "Termine für die Christenlehre und den Konfirmandenunterricht sowie die Junge Gemeinde für das Jahr 2015.",
+            "contents": "/data/events/christenlehre.html"
+        },
+        {
+            "date": "04.10.2015",
+            "image": "/data/events/erntedank_thumb.jpg",
+            "title": "Erntedankgottesdienst",
+            "description": "Mit dem Erntedankfest erinnern wir an den engen Zusammenhang von Mensch und Natur."
+        },
+        {
+            "date": "06.01.2016",
+            "title": "New York Gospelsingers",
+            "description": "Konzert mit den \"New York Gospelsingers\""
+        }
+    ]
+}
