@@ -6,7 +6,7 @@
 var BACKGROUNDS_URL = 'data/style/backgrounds.json',
 PALETTE_URL = 'data/style/palette.json',
 ALPHA_A = 0.1,
-ALPHA_B = 0.65,
+ALPHA_B = 0.7,
 
 updateBackgrounds = function(backgrounds, palette) {
 
