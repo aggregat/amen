@@ -14,6 +14,13 @@
             "description": "Mit dem Erntedankfest erinnern wir an den engen Zusammenhang von Mensch und Natur."
         },
         {
+            "date": "23.10.2015",
+            "image": "/data/events/kirchenjahr_express_thumb.jpg",
+            "title": "Ein Singspiel für die ganze Familie: „Der Kirchenjahr-Express“",
+            "description": "Das Singspiel „Der Kirchenjahr-Express - wenn Holzwürmer auf Reisen gehen...“ startet am 1. Advent in der Laurentius-Kirche Kaltenwestheim mit Volldampf zu einer Rundreise durch das komplette Kirchenjahr.",
+            "contents": "/data/events/kirchenjahr_express.html"
+        },
+        {
             "date": "06.01.2016",
             "title": "New York Gospelsingers",
             "description": "Konzert mit den \"New York Gospelsingers\""
