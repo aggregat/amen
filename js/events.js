@@ -9,8 +9,15 @@ EventImageOuter =
   React.createClass(
     { render: function() {
 
+        var HTML_REGEX = /\.html$/,
+        className = (this.props.event.contents
+                     && this.props.event.contents.match(HTML_REGEX)
+                     ? [ 'ajax'
+                       ]
+                     : []).join(', ');
+
         return(this.props.event.contents
-               ? (<a href={ this.props.event.contents }>
+               ? (<a className={ className } href={ this.props.event.contents }>
                   { this.props.children }
                   </a>
                  )

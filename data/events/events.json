@@ -8,21 +8,23 @@
             "contents": "/data/events/christenlehre.html"
         },
         {
-            "date": "18.10.2015",
-            "title": "Bandgottesdienst mit „Invitation“",
-            "description": "Am Sonntag, dem 18.10.2015 feiern wir um 10:00 Uhr in der Laurentius-Kirche Kaltenwestheim einen musikalischen Gottesdienst mit der Band „Invitation“."
+            "date": "10.11.2015",
+            "title": "Andacht zum Martinstag",
+            "image": "/data/events/martinstag_thumb.jpg",
+            "description": "Am Dienstag, 10.11.2015 um 17:30 Uhr in der Kirche in Kaltenwestheim und gleichzeitig in der Kirche von Reichenhausen, anschließend Laternenumzug! Bitte eine Fackel oder Laterne mitbringen!"
         },
         {
-            "date": "23.10.2015",
-            "image": "/data/events/kirchenjahr_express_thumb.jpg",
-            "title": "Ein Singspiel für die ganze Familie: „Der Kirchenjahr-Express“",
-            "description": "Das Singspiel „Der Kirchenjahr-Express - wenn Holzwürmer auf Reisen gehen...“ startet in der Laurentius-Kirche Kaltenwestheim mit Volldampf zu einer Rundreise durch das komplette Kirchenjahr. Die Grundschule Kaltenwestheim sowie die großen Gruppen des Kindergartens sind eingeladen. Auch Eltern, Großeltern, Onkel und Tanten sind herzlich willkomen!",
-            "contents": "/data/events/kirchenjahr_express.html"
+            "date": "28.11.2015",
+            "title": "Adventseröffnung",
+            "image": "/data/events/advent_thumb.jpg",
+            "description": "Am Samstag, 28.11.15 findet um 17:00 Uhr die Adventseröffnung in der Kirche von Kaltenwestheim statt. Die Christenlehrekinder üben ein Theaterstück ein."
         },
         {
             "date": "07.01.2016",
-            "title": "New York Gospelsingers",
-            "description": "Konzert mit den \"New York Gospelsingers\""
+            "title": "The Glory Gospel Singers",
+            "description": "Konzert mit den \"Glory Gospel Singers\" aus New York, USA",
+            "image": "/data/events/gospel_thumb.jpg",
+            "contents": "/data/events/gospel.pdf"
         }
     ]
 }

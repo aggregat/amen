@@ -49,7 +49,7 @@ $('.about-gallery')
 
 $('.events-gallery')
   .magnificPopup(
-    { delegate: 'a',
+    { delegate: 'a.ajax',
       type: 'ajax',
       image: {
         verticalFit: true
