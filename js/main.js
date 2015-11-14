@@ -14,6 +14,7 @@ $(window)
             }
           });
 */
+$.ajaxSetup ({ cache: false });
 
 $(function() {
     $('a.page-scroll')
