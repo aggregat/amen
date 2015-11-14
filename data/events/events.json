@@ -9,9 +9,15 @@
         },
         {
             "date": "28.11.2015",
-            "title": "Adventseröffnung",
+            "title": "Große Adventseröffnung",
             "image": "/data/events/advent_thumb.jpg",
-            "description": "Am Samstag, 28.11.15 findet um 17:00 Uhr die Adventseröffnung in der Kirche von Kaltenwestheim statt. Die Christenlehrekinder üben ein Theaterstück ein."
+            "description": "Am Samstag, 28.11.15 findet um 17:00 Uhr die große Adventseröffnung zentral in der Laurentius-Kirche in Kaltenwestheim statt. Mit Posaunen und Adventsspiel der Christenlehrekinder."
+        },
+        {
+            "date": "12.2015",
+            "title": "Adventskalender so groß wie ein Dorf",
+            "image": "/data/events/adventskalender_thumb.jpg",
+            "description": "Wieder ein Adventskalender so groß wie ein Dorf! Nichts für Stubenhocker! In den Gemeinden Kaltenwestheim, Mittelsdorf und Reichenhausen wird es im Advent wieder einen ganz besonderen Adventskalender geben. Vom 1.-24. Dezember wird jeweils irgendwo im Dorf in einem Fenster ein Kurrende-Sänger erscheinen, auf dem Datum und Buchstabe für den Lösungssatz zu finden sind. Lösungskarten können bei der Adventseröffnung, in den Gottesdiensten am 1. Advent oder im Pfarramt mitgenommen werden. Die Preisträger werden in den Gottesdiensten am 3.1.2016 ausgelost."
         },
         {
             "date": "07.01.2016",
