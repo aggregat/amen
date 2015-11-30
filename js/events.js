@@ -142,7 +142,37 @@ EventsContainer =
         $.ajax({ url: EVENTS_URL,
                  dataType: 'json',
                  success: _.bind(function(data) {
-                                   this.setState({ events: data.events
+                                   this.setState({ events: _.filter(data.events,
+																	function(event) {
+
+																		var now = new Date().valueOf(),
+																		DATE_REGEX = /^([0-9]+)\.([0-9]+)\.([0-9]+)$/,
+																		MONTH_REGEX = /^([0-9]+)\.([0-9]+)$/,
+																		YEAR_REGEX = /^([0-9]+)$/,
+																		dateMatch = event.date.match(DATE_REGEX),
+																		monthMatch = event.date.match(MONTH_REGEX),
+																		yearMatch = event.date.match(YEAR_REGEX),
+																		comparator = function(z) {
+																			return((z[0] | 0) >= (z[1] | 0));
+																		},
+																		date,
+																		month,
+																		year;
+
+																		return(_.isEmpty(event.date)
+																			   || (dateMatch
+																				   && (date = new Date((dateMatch[3] | 0),
+																									   (dateMatch[2] | 0) - 1,
+																									   (dateMatch[1] | 0) + 1))
+																				   && date.valueOf() >= now)
+																			   || (monthMatch
+																				   && (month = new Date(monthMatch[2] | 0,
+																										monthMatch[1] | 0))
+																				   && month.valueOf() >= now)
+																			   || (yearMatch
+																				   && (year = new Date((yearMatch[1] | 0) + 1))
+																				   && year.valueOf() >= now));
+																	})
                                                  });
                                  },
                                  this),
