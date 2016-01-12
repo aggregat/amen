@@ -90,7 +90,7 @@ EventPanel =
             </div>
 
             <div className='timeline-body'>
-            <p className='text-muted' dangerouslySetInnerHTML={{ __html: this.props.event.description }} />
+            <p className='text-muted'>{ this.props.event.description  }</p>
             </div>
             </div>
             </div>
