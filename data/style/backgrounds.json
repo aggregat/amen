@@ -21,6 +21,12 @@
             "/img/plate.jpg"
         ]
     },
+    ".passionskalender-section":  {
+        "tint": true,
+        "images": [
+            "/img/washboard.jpg"
+        ]
+    },
     ".events-section":  {
         "tint": true,
         "images": [
