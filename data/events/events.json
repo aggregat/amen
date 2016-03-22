@@ -8,16 +8,19 @@
             "contents": "/data/events/christenlehre.html"
         },
         {
-            "date": "05.03.2016",
-            "title": "24. Frühstückstreffen für Männer",
-            "description": "Das nächste „Frühstückstreffen für Männer“ findet am Samstag, 5. März 2016, von 09:00 Uhr bis 11:30 Uhr im Bürgerhaus in Kaltennordheim statt. Beim 24. Frühstückstreffen für Männer spricht Dr. Christian Stawenow aus Eisenach zum Thema „Brauchen Männer Trost?“.",
-            "contents": "/data/events/plakat.pdf"
+            "date": "27.03.2016",
+            "title": "Osternacht Ostergottesdienst",
+            "description": "Sonnenaufgang ist bei uns um 07:08 Uhr. Der Osternachtsgottesdienst beginnt um 06:15 Uhr in der Kirche in Kaltenwestheim. Im Anschluss gibt es im Gemeinderaum Osterfrühstück."
         },
         {
-            "date": "03.2016",
-            "title": "Bibelwoche 2016",
-            "image": "/data/events/bibelwoche_thumb.jpg",
-            "description": "Montag, 07.03. bis Donnerstag, 10.03. von 19:30 Uhr bis 21:00 Uhr im Gemeinderaum Kaltenwestheim \"Augen auf und durch!\" - praktische Bibelarbeiten zu Texten aus dem Sacharjabuch"
+            "date": "28.03.2016",
+            "title": "Ostermusical am Ostermontag",
+            "description": "Christenlehrekinder, Band „Invitation“ und viele andere Mitwirkende aus unserem Kirchspiel bereiten wieder einen musikalischen Osterfestgottesdienst für Ostermontag vor."
+        },
+        {
+            "date": "01.05.2016",
+            "title": "Bandgottesdienst mit „Invitation“",
+            "description": ""
         }
     ]
 }
