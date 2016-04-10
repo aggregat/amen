@@ -29,15 +29,21 @@ EventImageInner =
   React.createClass(
     { render: function() {
 
-        var DATE_REGEX = /([0-9]+\.[0-9]+\.)([0-9]+)/,
+        var DATE_REGEX = /^([0-9]+\.[0-9]+\.)([0-9]+)$/,
+        RANGE_REGEX = /^([0-9]+\.-[0-9]+\.[0-9]+\.)([0-9]+)$/,
         dateMatch = this.props.event.date.match(DATE_REGEX),
+        rangeMatch = this.props.event.date.match(RANGE_REGEX),
         dateTokens = (dateMatch
                       ? dateMatch.slice(1)
-                      : this.props.event.date.split('.')),
+                      : (rangeMatch
+                         ? rangeMatch.slice(1)
+                         : this.props.event.date.split('.'))),
         dateItems = _.map(dateTokens,
                           function(token) {
                             return(<p>{ token }</p>);
                           });
+
+        console.log('datematch', dateMatch, 'rangematch', rangeMatch, 'datetokens', dateTokens, 'dateitems', dateItems);
 
         return(this.props.event.date.length
                ? <h1>{ dateItems }</h1>
@@ -147,9 +153,11 @@ EventsContainer =
 
                                                                       var now = new Date().valueOf(),
                                                                       DATE_REGEX = /^([0-9]+)\.([0-9]+)\.([0-9]+)$/,
+                                                                      RANGE_REGEX = /^([0-9]+)\.\-[0-9]+\.([0-9]+)\.([0-9]+)$/,
                                                                       MONTH_REGEX = /^([0-9]+)\.([0-9]+)$/,
                                                                       YEAR_REGEX = /^([0-9]+)$/,
                                                                       dateMatch = event.date.match(DATE_REGEX),
+                                                                      rangeMatch = event.date.match(RANGE_REGEX),
                                                                       monthMatch = event.date.match(MONTH_REGEX),
                                                                       yearMatch = event.date.match(YEAR_REGEX),
                                                                       comparator = function(z) {
@@ -164,6 +172,11 @@ EventsContainer =
                                                                                  && (date = new Date((dateMatch[3] | 0),
                                                                                                      (dateMatch[2] | 0) - 1,
                                                                                                      (dateMatch[1] | 0) + 1))
+                                                                                 && date.valueOf() >= now)
+                                                                             || (rangeMatch
+                                                                                 && (date = new Date((rangeMatch[3] | 0),
+                                                                                                     (rangeMatch[2] | 0) - 1,
+                                                                                                     (rangeMatch[1] | 0) + 1))
                                                                                  && date.valueOf() >= now)
                                                                              || (monthMatch
                                                                                  && (month = new Date(monthMatch[2] | 0,

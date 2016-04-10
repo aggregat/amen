@@ -8,19 +8,22 @@
             "contents": "/data/events/christenlehre.html"
         },
         {
-            "date": "27.03.2016",
-            "title": "Osternacht Ostergottesdienst",
-            "description": "Sonnenaufgang ist bei uns um 07:08 Uhr. Der Osternachtsgottesdienst beginnt um 06:15 Uhr in der Kirche in Kaltenwestheim. Im Anschluss gibt es im Gemeinderaum Osterfrühstück."
+            "date": "05.06.2016",
+            "title": "Silberne Konfirmation",
+            "description": "Silberne Konfirmation am 05.06. um 13:30 Uhr zentral in Kaltenwestheim"
         },
         {
-            "date": "28.03.2016",
-            "title": "Ostermusical am Ostermontag",
-            "description": "Christenlehrekinder, Band „Invitation“ und viele andere Mitwirkende aus unserem Kirchspiel bereiten wieder einen musikalischen Osterfestgottesdienst für Ostermontag vor."
+            "date": "19.06.2016",
+            "title": "Gottesdienst im Grünen",
+            "description": "Gottesdienst im Grünen am Steinköpfchen am 19.06. ab 14:00 Uhr",
+            "image": "/data/events/gruen.jpg"
         },
         {
-            "date": "01.05.2016",
-            "title": "Bandgottesdienst mit „Invitation“",
-            "description": ""
+            "date": "11.-13.7.2016",
+            "title": "Kindercamp 2016 für Kinder im Alter von 9-12 Jahren",
+            "description": "Im sechsten Zeltlager auf dem Wiesenthaler Köpfel könnt Ihr zu Detektiven werden! Ihr werdet schwierige Fälle und knifflige Rätsel rund um die Bibel lösen. Die Natur erkunden, gemeinsam Spaß haben, kreativ sein und vieles mehr.",
+            "image": "/data/events/kindercamp.jpg",
+            "contents": "/data/events/kindercamp.pdf"
         }
     ]
 }
