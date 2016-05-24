@@ -8,11 +8,6 @@
             "contents": "/data/events/christenlehre.html"
         },
         {
-            "date": "01.05.2016",
-            "title": "Bandgottesdienst mit „Invitation“",
-            "description": ""
-        },
-        {
             "date": "05.06.2016",
             "title": "Silberne Konfirmation",
             "description": "Silberne Konfirmation am 05.06. um 13:30 Uhr zentral in Kaltenwestheim"
@@ -22,6 +17,11 @@
             "title": "Gottesdienst im Grünen",
             "description": "Gottesdienst im Grünen am Steinköpfchen am 19.06. ab 14:00 Uhr",
             "image": "/data/events/gruen.jpg"
+        },
+        {
+            "date": "23.06.2016",
+            "title": "Schuljahresabschlussgottesdienst",
+            "description": "Schuljahresabschlussgottesdienst, zentral in Kaltenwestheim am Vorabend vor den Zeugnissen, Donnerstag 23.6. um 19.00 Uhr, mit biblischem Theaterstück"
         },
         {
             "date": "11.-13.7.2016",
