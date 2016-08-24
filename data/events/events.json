@@ -8,27 +8,11 @@
             "contents": "/data/events/christenlehre.html"
         },
         {
-            "date": "05.06.2016",
-            "title": "Silberne Konfirmation",
-            "description": "Silberne Konfirmation am 05.06. um 13:30 Uhr zentral in Kaltenwestheim"
-        },
-        {
-            "date": "19.06.2016",
-            "title": "Gottesdienst im Grünen",
-            "description": "Gottesdienst im Grünen am Steinköpfchen am 19.06. ab 14:00 Uhr",
-            "image": "/data/events/gruen.jpg"
-        },
-        {
-            "date": "23.06.2016",
-            "title": "Schuljahresabschlussgottesdienst",
-            "description": "Schuljahresabschlussgottesdienst, zentral in Kaltenwestheim am Vorabend vor den Zeugnissen, Donnerstag 23.6. um 19.00 Uhr, mit biblischem Theaterstück"
-        },
-        {
-            "date": "11.-13.7.2016",
-            "title": "Kindercamp 2016 für Kinder im Alter von 9-12 Jahren",
-            "description": "Im sechsten Zeltlager auf dem Wiesenthaler Köpfel könnt Ihr zu Detektiven werden! Ihr werdet schwierige Fälle und knifflige Rätsel rund um die Bibel lösen. Die Natur erkunden, gemeinsam Spaß haben, kreativ sein und vieles mehr.",
-            "image": "/data/events/kindercamp.jpg",
-            "contents": "/data/events/kindercamp.pdf"
+            "date": "04.09.2016",
+            "title": "25. Bibelsonntag",
+            "description": "Bibelsonntag mit Festgottesdienst und tollem Programm am 04. September ab 13:30 Uhr in der Laurentius-Kirche Kaltenwestheim.",
+            "contents": "/data/events/bibelsonntag.html",
+            "image": "/data/events/radieschen.jpg"
         }
     ]
 }
