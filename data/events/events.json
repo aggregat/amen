@@ -4,15 +4,8 @@
             "date": "",
             "image": "/data/events/christenlehre_thumb.jpg",
             "title": "Christenlehre, Konfirmanden und Junge Gemeinde",
-            "description": "Termine für die Christenlehre und den Konfirmandenunterricht sowie die Junge Gemeinde für das Jahr 2016.",
+            "description": "Termine für die Christenlehre und den Konfirmandenunterricht sowie die Junge Gemeinde für das Jahr 2017.",
             "contents": "/data/events/christenlehre.html"
-        },
-        {
-            "date": "04.09.2016",
-            "title": "25. Bibelsonntag",
-            "description": "Bibelsonntag mit Festgottesdienst und tollem Programm am 04. September ab 13:30 Uhr in der Laurentius-Kirche Kaltenwestheim.",
-            "contents": "/data/events/bibelsonntag.html",
-            "image": "/data/events/radieschen.jpg"
         }
     ]
 }
