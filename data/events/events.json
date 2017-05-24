@@ -1,11 +1,31 @@
 {
-    "events": [
-        {
-            "date": "",
-            "image": "/data/events/christenlehre_thumb.jpg",
-            "title": "Christenlehre, Konfirmanden und Junge Gemeinde",
-            "description": "Termine für die Christenlehre und den Konfirmandenunterricht sowie die Junge Gemeinde für das Jahr 2017.",
-            "contents": "/data/events/christenlehre.html"
-        }
-    ]
+  "events": [
+    {
+      "date": "",
+      "image": "/data/events/christenlehre_thumb.jpg",
+      "title": "Christenlehre, Konfirmanden und Junge Gemeinde",
+      "description": "Termine für die Christenlehre und den Konfirmandenunterricht sowie die Junge Gemeinde für das Jahr 2017.",
+      "contents": "/data/events/christenlehre.html"
+    },
+    {
+      "date": "11.06.2017",
+      "title": "Gottesdienst im Grünen",
+      "description": "Gottesdienst im Grünen am Steinköpfchen mit Bläsern: „NTK“ ab 14:00 Uhr"
+    },
+    {
+      "date": "18.06.2017",
+      "title": "Gottesdienst mit heiligem Abendmahl",
+      "description": "Gottesdienst mit heiligem Abendmahl in Kaltenwestheim 11:00 Uhr, Mittelsdorf 09:30 Uhr, Reichenhausen 13:00 Uhr"
+    },
+    {
+      "date": "22.06.2017",
+      "title": "Schuljahresabschlussgottesdienst",
+      "description": "Schuljahresabschlussgottesdienst zentral für alle: Kaltenwestheim 19:00 Uhr"
+    },
+    {
+      "date": "25.06.2017",
+      "title": "Abschiedsgottesdienst",
+      "description": "Abschiedsgottesdienst in Kaltenwestheim 14:00 Uhr. Im Anschluss laden die Gemeindekirchenräte auch im Namen der Chöre und Gemeindekreise herzlich zum Kaffeetrinken in die Turnhalle ein."
+    }
+  ]
 }
