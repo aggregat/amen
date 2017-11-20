@@ -8,11 +8,44 @@
       "contents": "/data/events/christenlehre.html"
     },
     {
-      "date": "10.09.2017",
-      "title": "Bibelsonntag",
-      "description": "26. Bibelsonntag am 10.09.2017 zentral in Kaltenwestheim um 13:30 Uhr",
-      "image": "/data/events/bibelsonntag_thumb.jpg",
-      "contents": "/data/events/bibelsonntag.html"
+      "date": "03.12.2017",
+      "title": "Gottesdienst",
+      "description": "Gottesdienst in Kaltenwestheim um 11:00 Uhr und Reichenhausen um 10:00 Uhr"
+    },
+    {
+      "date": "10.12.2017",
+      "title": "Gottesdienst",
+      "description": "Gottesdienst in Mittelsdorf um 10:00 Uhr"
+    },
+    {
+      "date": "16.12.2017",
+      "title": "Adventseröffnung",
+      "description": "Adventseröffnung in Mittelsdorf um 17:00 Uhr"
+    },
+    {
+      "date": "17.12.2017",
+      "title": "Gottesdienst mit Heiligem Abendmahl",
+      "description": "Gottesdienst mit Heiligem Abendmahl in Kaltenwestheim um 13:00 Uhr"
+    },
+    {
+      "date": "24.12.2017",
+      "title": "Heiligabend",
+      "description": "Gottesdienst in Kaltenwestheim um 18:00 Uhr, Mittelsdorf um 17:00 Uhr und Reichenhausen um 16:00 Uhr. Christvesper in Kaltenwestheim um 22:30 Uhr"
+    },
+    {
+      "date": "25.12.2017",
+      "title": "1. Christtag-Gottesdienst",
+      "description": "Gottesdienst in Reichenhausen um 09:00 Uhr"
+    },
+    {
+      "date": "26.12.2017",
+      "title": "2. Christtag-Gottesdienst",
+      "description": "Gottesdienst in Kaltenwestheim um 11:00 Uhr und Mittelsdorf um 09:00 Uhr"
+    },
+    {
+      "date": "31.12.2017",
+      "title": "Silvester",
+      "description": "Gottesdienst in Kaltenwestheim um 19:00 Uhr"
     }
   ]
 }
