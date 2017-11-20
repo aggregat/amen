@@ -43,7 +43,7 @@ EventImageInner =
                             return(<p>{ token }</p>);
                           });
 
-        console.log('datematch', dateMatch, 'rangematch', rangeMatch, 'datetokens', dateTokens, 'dateitems', dateItems);
+        // console.log('datematch', dateMatch, 'rangematch', rangeMatch, 'datetokens', dateTokens, 'dateitems', dateItems);
 
         return(this.props.event.date.length
                ? <h1>{ dateItems }</h1>
